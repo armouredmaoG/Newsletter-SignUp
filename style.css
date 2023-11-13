@@ -114,7 +114,7 @@ li .tick-icon{
 }
 
 .image-container{
-    background-image: url("/assets/images/illustration-sign-up-desktop.svg");
+    background-image: url("./assets/images/illustration-sign-up-desktop.svg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -195,7 +195,7 @@ li .tick-icon{
         gap: 1rem;
     }
     .image-container{
-        background-image: url("/assets/images/illustration-sign-up-mobile.svg");
+        background-image: url("./assets/images/illustration-sign-up-mobile.svg");
         width: 100%;
     }
     #newsletter-img{
