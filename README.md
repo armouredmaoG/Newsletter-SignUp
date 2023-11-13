@@ -35,15 +35,28 @@ Users should be able to:
 
 ### Screenshot
 
-![Form - Desktop Version](./solution-screenshots\Desktop-solution.png)
-![Form Success Message - Desktop Version](./solution-screenshots\DesktopSuccess-solution.png)
-![Form - Mobile Version](./solution-screenshots\Mobile-solution.png)
-![Form Success Message - Mobile Version](./solution-screenshots\MobileSuccess-solution.png)
+<b>Form SignUp- Desktop Version<b/>
+<br/>
+<img src="https://github.com/armouredmaoG/Newsletter-SignUp/assets/125745784/c8e04bce-3575-4d20-ba4a-35cf575d8e9e" width="700" height="500" >
+<br/>
+<br/>
+<b>Form SignUp Success Message- Desktop Version<b/>
+<br/>
+<img src="https://github.com/armouredmaoG/Newsletter-SignUp/assets/125745784/ca3e8708-f9c5-4655-b24c-f69cd2016c62" width="700" height="500">
+<br/>
+<br/>
+<b>Form SignUp- Mobile Version</b> 
+<br/>
+<img src="https://github.com/armouredmaoG/Newsletter-SignUp/assets/125745784/117025a8-ad53-4815-a087-52e6933ffa33" width="400" height="600">
+<br/>
+<br/>
+Form SignUp Success Message- Mobile Version <br/>
+<img src="https://github.com/armouredmaoG/Newsletter-SignUp/assets/125745784/c0bd45f0-c826-4cec-90d3-16c31548f676" width="400" height="600">
 
 ### Links
 
-- Solution URL: [Newsletter-SignUp-Form-SolutionURL](https://your-solution-url.com)
-- Live Site URL: [Newsletter-SignUp-Form](https://your-live-site-url.com)
+- Solution URL: [Newsletter-SignUp-Form-SolutionURL](https://github.com/armouredmaoG/Newsletter-SignUp)
+- Live Site URL: [Newsletter-SignUp-Form](https://armouredmaog.github.io/Newsletter-SignUp/)
 
 ## My process
 
