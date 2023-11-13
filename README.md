@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Form - Desktop Version](./solution-screenshots\Desktop-solution.png)
+![Form - Desktop Version](https://github.com/armouredmaoG/Newsletter-SignUp/blob/master/solution-screenshots/Desktop-solution.png?raw=true)
 ![Form Success Message - Desktop Version](./solution-screenshots\DesktopSuccess-solution.png)
 ![Form - Mobile Version](./solution-screenshots\Mobile-solution.png)
 ![Form Success Message - Mobile Version](./solution-screenshots\MobileSuccess-solution.png)
